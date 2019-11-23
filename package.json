@@ -1,0 +1,21 @@
+{
+  "name": "aulanodeblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "http-status": "^1.4.0",
+    "http-status-code": "^2.1.0",
+    "mysql2": "^2.0.0",
+    "nodemon": "^1.19.4",
+    "save": "^2.4.0",
+    "sequelize": "^5.21.2"
+  }
+}
